@@ -40,4 +40,4 @@ function decodeWeather(weatherCode) {
 
 const weatherCode = "SQ";
 const description = getWeatherDescription(weatherCode, decodeWeather);
-console.log(description); // Вывод: "Сейчас погода: Шквал"
+console.log(description); 
